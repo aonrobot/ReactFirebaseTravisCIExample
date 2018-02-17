@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
@@ -7,11 +6,11 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">PropaganDAAAA to React</h1>
+          <img src={'https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/10892011_823160194391711_4434570603349381728_n.jpg?oh=40a3e337a4c390788eca5e9c9d49b1c1&oe=5B10F537'} className="App-logo" alt="logo" />
+          <h1 className="App-title">Welcome to my blog.</h1>
         </header>
         <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
+          Auttawut Wiriyakreng
         </p>
       </div>
     );
